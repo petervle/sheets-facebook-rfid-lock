@@ -1,6 +1,6 @@
 # Google-Facebook-RFID-Lock
 I'm an Electrical Engineering, Computer Science, and Design major at UC Berkeley.  
-I created this during the summer of 2019. Currently used by a small gym.
+I created this during the summer of 2019. Was used by a small gym.
 
 # Future updates
 This program currently uses a RFID scanner that outputs the id of the tag as a keyboard input. Will be updating the code to be able to parse the industry standard for scanners, Wiegand 26.  
