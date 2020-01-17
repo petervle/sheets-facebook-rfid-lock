@@ -18,7 +18,7 @@ I don't go over the two apis in depth, because they both have very thourough doc
  * **remember to pip install fbchat and the necessary things for google api (oauth2client etc)**
  
 # About the Project
-  I started regularly going to a personal trainer during the summer of 2019. The gym runs on an appointment system (all members go in for personal training). Members could only come in to workout on their only if another personal trainer was there. I got to become friends with the owner, and he talked about having something that could allow his members to come in during the off hours. For example, a lot of gym goers like to do their cardio early in the morning before eating/work, but the gym doesn't open that early. The solution is a lock that the members can open.
+  At the client's gym, members could only come in to workout on their only if another personal trainer was there. The gym isn't a big 24-hour fitness,but it is about twice the size as those big gym's personal training areas. I connected with the client who was not satisfied with his current smart lock. It allowed members to scan in and unlock the door during off hours (useful for people that want to come in really early or really late) and it logged the people that came in, but that was it. I offered to make him one with the features that he wanted.
 
 # Scope of the project
 Create a system that gives door access to members that are allowed to enter in the off hours.   
