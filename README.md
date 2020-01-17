@@ -43,7 +43,7 @@ Initally I wanted to use IFTTT (a trigger/action app) to handle the phone notifi
   * I do not know why I thought I could make all this without using my strongest language, but I did and it was a mistake.  
 ### Design solutions
 **Found fbchat**  
-It is an api that allows the user to create a fb messenger bot. We will be using this to send instant messages over messenger whenever the door is opened (and it's **FREE**).  
+It is an api that allows the user to create a fb messenger bot. We will be using this to send instant messages over messenger whenever the door is opened (and it's **FREE**). Other options we saw were services like twilio, but these required paid subscriptions, and we didn't want an extra cost. The product had to be strictly better.  
 **Use Raspberry Pi 4 instead of Arduino**
 Runs like a desktop, can run python3, and easy to hook up a lock.
 
